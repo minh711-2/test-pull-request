@@ -38,3 +38,6 @@ Then click `Create Pull Request`:
 Then fulfill the information:
 
 ![Pull Request message](images/image-4.png)
+
+But seem like it impossible to create a pull request directly from a branch, may
+be it should be folk to some other branch first.
